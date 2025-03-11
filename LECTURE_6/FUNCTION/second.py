@@ -12,3 +12,4 @@ def mul_arg(p1,p2,p3,k1,k2,k3):
     print(p1,p2,p3,k1,k2,k3)
 
 mul_arg(3,4,5,k1=6,k3=7,k2=8)
+
