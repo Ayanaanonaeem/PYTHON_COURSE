@@ -16,4 +16,7 @@ num_sum=sum(3,4)
 
 print(num_sum)
 
-def mul
+def mul(a,b):
+   return a*b
+
+print(mul(5,3))
