@@ -11,3 +11,6 @@ print(b)
 
 # name ek variable hai jis main Ayan store huwa wa hai
 # a bhi ek variable hai jis main 67 store huwa wa hai
+name="hello"
+b='hello'
+print(name==b)
